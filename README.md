@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhalilJouaneh
-- 👀 I’m interested in AI and blockchain appliations
-- 🌱 I’m currently learning tensorflow
+- 👀 I build blockchain appliations
 - 📫 How to reach me: khalil_jouaneh@yahoo.com
 
 <!---
